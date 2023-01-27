@@ -1,0 +1,143 @@
+body {
+	
+font-family: 'Poppins', sans-serif; 
+}
+
+header {
+	background: linear-gradient(#FF0000, #FEFEFE );
+	padding: 20px 0;
+}
+
+nav {
+	position: absolute;
+	margin: 40px;
+	top: 110px;
+	right: 0;
+}
+
+nav li{
+	display: inline;
+	margin: 0 0 0 10px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #0000FF;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+
+}
+nav a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+} 
+
+.inclu {
+	width: 120px;
+	float: left;
+	margin: 0 20px 20px 0;
+}
+
+.principal {
+	padding: 3em 0;
+	background: #FEFEFE;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.principal p {
+	margin: 0 0 1em;
+}
+
+.principal strong {
+	font-weight: bold;
+}
+
+.principal em {
+	font-style: italic ;
+}
+}
+.principal {
+		background: #CCCCCC;
+		padding: auto;
+	}	
+
+	#missao {
+		font-size: 20px
+	}
+		
+	em strong {
+		color: #008000;
+	}
+
+.titulo-principal {
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+
+.servico {
+	padding: 3em 0;
+	background: #FEFEFE;
+}
+.crianca {
+	padding: 3em 0;
+	background: #FEFEFE;
+}
+
+.crianca-beneficios {
+	width: 1100px;
+	margin:  auto;
+	
+}
+
+.imagem-crianca {
+	width: 100%; 
+    padding: auto;
+    margin:  auto ;
+    
+	
+	}
+
+   h3 {
+		text-align: center;
+	}
+
+	ul {
+		display: inline-block;
+		text-justify: top;
+		width: 20%;
+		margin-right: 15% ;
+	}
+
+
+.mapa {
+	padding: 3em 0;
+	
+}
+
+.mapa-conteudo {
+	width: 940px;
+	margin: 0 auto;
+
+}
+.mapa p {
+	margin: 0 0 2em;
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+	background: url("bg.jpg");
+	padding: 40PX 0;
+	background: linear-gradient(#FEFEFE, #FF0000);
+}
+
+.copyright {
+	color: #000000;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
