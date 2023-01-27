@@ -7,14 +7,12 @@ header {
 	background: linear-gradient(#FF0000, #FEFEFE );
 	padding: 20px 0;
 }
-
 nav {
 	position: absolute;
 	margin: 40px;
 	top: 110px;
 	right: 0;
 }
-
 nav li{
 	display: inline;
 	margin: 0 0 0 10px;
@@ -30,8 +28,7 @@ nav a {
 }
 nav a:hover {
 	color: #FF0000;
-	text-decoration: underline;
-} 
+}	
 
 .inclu {
 	width: 120px;
@@ -78,41 +75,16 @@ nav a:hover {
 	clear: left;
 }
 
-
-.servico {
-	padding: 3em 0;
-	background: #FEFEFE;
-}
-.crianca {
-	padding: 3em 0;
-	background: #FEFEFE;
-}
-
-.crianca-beneficios {
-	width: 1100px;
-	margin:  auto;
-	
+div p {
+	text-align:center;
+	margin: auto;
 }
 
 .imagem-crianca {
-	width: 100%; 
-    padding: auto;
-    margin:  auto ;
-    
-	
-	}
-
-   h3 {
-		text-align: center;
-	}
-
-	ul {
-		display: inline-block;
-		text-justify: top;
-		width: 20%;
-		margin-right: 15% ;
-	}
-
+	width: 940px; 
+    margin: auto;
+    display: block;
+}
 
 .mapa {
 	padding: 3em 0;
