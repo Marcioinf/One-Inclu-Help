@@ -35,18 +35,24 @@ h2 {
 		text-align: center;
 		color: #008000;
 	}
+
+form  {
+	text-align: center;
+	font-style: italic;
+	font-size: 22px;
+	color: #008000;
+}
+
 .input-padrao {
 	display: block;
-	margin: 0 0 20px;
+	margin: 0 auto 20px;
 	padding: 10px 25px ;
 	width: 50%;
 }
 
-.checkbox {
-	margin: 20px 0;
-}
-
 .enviar {
+	display: block;
+	margin: 0 auto;
 	width: 20%;
 	padding: 15px 0;
 	background: #008000;
